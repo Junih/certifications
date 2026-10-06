@@ -1,9 +1,9 @@
 # Professional Certifications
 
 **Artur Kowalski**  
-Data Analyst | Business Analyst | Data Engineer
+Data Analyst | Business Analyst
 
-This repository contains my professional certifications in data analytics, data engineering, artificial intelligence, IT service management, and AI governance.
+This repository contains my professional certifications in data analytics, data engineering, artificial intelligence, IT service management and AI governance.
 
 ## Certifications
 
